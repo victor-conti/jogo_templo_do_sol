@@ -1,5 +1,5 @@
 # Jogo Templo do Sol
-Um jogo feito em C e ASC II (como forma de gerar os ambientes)
+Um jogo feito em C e ASC II (como forma de gerar os ambientes), para uma matéria da faculdade de Engenharia da Computação da Pontifícia Universitária Católica de Goiás.
 
 O jogo é baseado em um jogo antigo, chamado Black Sanctum (1984).
 
